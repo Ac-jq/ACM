@@ -272,4 +272,4 @@ int main() {
 
 达达希望一次搬掉尽量重的一些物品，请你告诉达达在他的力气范围内一次性能搬动的最大重量是多少
 
-![Alt text](../../../_resources/%E5%8F%8C%E5%90%91DFS.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E5%8F%8C%E5%90%91DFS.png)

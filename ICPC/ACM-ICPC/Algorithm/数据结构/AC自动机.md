@@ -36,9 +36,9 @@ Trie树一般要开字符串总个数 ×字符串最大长度， AC自动机也�
 - $转移边指向当前节点的回跳边所指节点的儿子$
 
 ### 建树：
-![Alt text](../../../_resources/AC%E8%87%AA%E5%8A%A8%E6%9C%BA1.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/AC%E8%87%AA%E5%8A%A8%E6%9C%BA1.png)
 
 ### 查询：
-![Alt text](../../../_resources/AC%E8%87%AA%E5%8A%A8%E6%9C%BA2.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/AC%E8%87%AA%E5%8A%A8%E6%9C%BA2.png)
 
-![Alt text](../../../_resources/Trie.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/Trie.png)

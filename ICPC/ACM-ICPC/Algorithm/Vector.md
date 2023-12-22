@@ -60,7 +60,7 @@ v1.insert(v1.end(), v2.begin(), v2.end());
 
 ### 操作
 ```
-​clear()​:清空向量中所有元素
+clear()​:清空向量中所有元素
 
 pop_back 去掉数组的最后一个数据
 

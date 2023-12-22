@@ -398,9 +398,9 @@ int main(){
 
 注意： 每条最短路中至少要包含一条边。
 
-![Alt text](../../../_resources/A-start%E7%AC%ACk%E7%9F%AD%E8%B7%AF.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/A-start%E7%AC%ACk%E7%9F%AD%E8%B7%AF.png)
 
-![Alt text](../../../_resources/A-star%E5%88%86%E6%9E%90.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/A-star%E5%88%86%E6%9E%90.png)
 
 ```
 #include <iostream>

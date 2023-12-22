@@ -157,7 +157,7 @@ int main() {
 
 限定所有数字变换在不超过 n的正整数范围内进行，求不断进行数字变换且不出现重复数字的最多变换步数。
 
-![Alt text](../../../_resources/%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2.jpeg)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2.jpeg)
 
 ```
 #include <iostream>
@@ -280,7 +280,7 @@ int main() {
 他必须在节点上放置最少数量的士兵，以便他们可以观察到所有的边。
 
 例如，下面的树：
-![Alt text](../../../_resources/%E6%88%98%E7%95%A5%E6%B8%B8%E6%88%8F.jpg.gif)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%88%98%E7%95%A5%E6%B8%B8%E6%88%8F.jpg.gif)
 
 只需要放置 1
  名士兵（在节点 1
@@ -338,7 +338,7 @@ int main() {
     system("pause");
     return 0;
 }
-```
+ ```
 
 # 皇宫看守
 太平王世子事件后，陆小凤成了皇上特聘的御前一品侍卫。
@@ -353,7 +353,7 @@ int main() {
 
 帮助陆小凤布置侍卫，在看守全部宫殿的前提下，使得花费的经费最少。
 
---- 
+---
 
 输入格式
 输入中数据描述一棵树，描述如下：
@@ -461,4 +461,4 @@ int main() {
 
     return 0;
 }
-```
+ ```

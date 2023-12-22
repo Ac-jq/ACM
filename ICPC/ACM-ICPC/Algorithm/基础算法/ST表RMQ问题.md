@@ -27,9 +27,9 @@ $ST算法实际上就是 DP + 位运算$
 ST算法分成两部分：离线预处理 （nlogn）和 在线查询（O(1)）
 ## 给定一个序列，输出[l, r]中的最大值
 
-![Alt text](../../../_resources/ST%E8%A1%A8%E9%A2%84%E5%A4%84%E7%90%86.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/ST%E8%A1%A8%E9%A2%84%E5%A4%84%E7%90%86.png)
 
-![Alt text](../../../_resources/ST%E8%A1%A8-%E8%AF%A2%E9%97%AE.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/ST%E8%A1%A8-%E8%AF%A2%E9%97%AE.png)
 
 ```
 #include <iostream>

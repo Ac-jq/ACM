@@ -5,7 +5,7 @@
 
 例如当 N=2，M=4时，共有 5种方案。当 N=2，M=3时，共有 3种方案。
 
-![Alt text](../../../_resources/%E8%92%99%E5%BE%B7%E9%87%8C%E5%AE%89%E7%9A%84%E6%A2%A6%E6%83%B3.jpg)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E8%92%99%E5%BE%B7%E9%87%8C%E5%AE%89%E7%9A%84%E6%A2%A6%E6%83%B3.jpg)
 
 ```
 #include<iostream>
