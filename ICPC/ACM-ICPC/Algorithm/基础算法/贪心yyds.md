@@ -27,7 +27,7 @@
 
 ## 邻项交换法的例题
 
-![Alt text](../../../_resources/%E8%B4%AA%E5%BF%83%E9%A2%98.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E8%B4%AA%E5%BF%83%E9%A2%98.png)
 ```
 struct uv {
   int a, b;
@@ -39,7 +39,7 @@ struct uv {
 ```
 ## 后悔法的例题
 
-![Alt text](../../../_resources/%E8%B4%AA%E5%BF%83%E9%A2%982.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E8%B4%AA%E5%BF%83%E9%A2%982.png)
 ```
 #include <algorithm>
 #include <cmath>
@@ -89,7 +89,7 @@ int main() {
 
 求至少需要多少次操作才能使数列中的所有数都一样，并求出在保证最少次数的前提下，最终得到的数列可能有多少种。
 
-![Alt text](../../../_resources/%E8%B4%AA%E5%BF%83%E6%9E%84%E9%80%A0.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E8%B4%AA%E5%BF%83%E6%9E%84%E9%80%A0.png)
 
 ```
 #include <iostream>	

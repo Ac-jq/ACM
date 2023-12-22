@@ -80,11 +80,12 @@ int main(){
 - $限定值x=1：此时可以取0或1.当此位取0时，后面的所有位可以取k -last个1；当此位取1时，后面所有位只能取k -last -1个1.$
 - $限定值x>1： 当前位取0或1时，处理同2；其他值直接不能取，在本题中没意义。$
   
+
 $这里用记忆化搜索来求组合数。存在数组f中，f[i][j]表示 从i个数中选出j个数的组合数。比如f[5][2]表示从5个数中选出2个数，结果就是f[5][2]=10.$
 
-![Alt text](../../../_resources/%E6%95%B0%E4%BD%8DDP%E6%A8%A1%E6%8B%9F.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%95%B0%E4%BD%8DDP%E6%A8%A1%E6%8B%9F.png)
 
-![Alt text](../../../_resources/%E6%95%B0%E4%BD%8DDP.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%95%B0%E4%BD%8DDP.png)
 
 - AC代码
 ```
@@ -165,11 +166,11 @@ int main(){
 
 现在大家决定玩一个游戏，指定一个整数闭区间 [a,b]，问这个区间内有多少个不降数。
 
-![Alt text](../../../_resources/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F.png)
 
-![Alt text](../../../_resources/%E6%95%B0%E4%BD%8DDP%E7%8A%B6%E6%80%81.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%95%B0%E4%BD%8DDP%E7%8A%B6%E6%80%81.png)
 
-![Alt text](../../../_resources/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F%E2%80%94%E2%80%94%E6%A8%A1%E6%8B%9F.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F%E2%80%94%E2%80%94%E6%A8%A1%E6%8B%9F.png)
 
 ```
 #include <bits/stdc++.h>

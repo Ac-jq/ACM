@@ -16,12 +16,12 @@
 8. 查询比数值x小的最大值
 9. 左旋/右旋
 
-![Alt text](../../../_resources/splay-rorate.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/splay-rorate.png)
 
-![Alt text](../../../_resources/%E4%BC%B8%E5%B1%95splay.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E4%BC%B8%E5%B1%95splay.png)
 
-![Alt text](../../../_resources/splay_other.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/splay_other.png)
 
-![Alt text](../../../_resources/splay-other2.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/splay-other2.png)
 
-![Alt text](../../../_resources/splay-other3.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/splay-other3.png)

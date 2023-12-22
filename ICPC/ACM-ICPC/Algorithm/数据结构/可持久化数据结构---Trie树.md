@@ -1,14 +1,14 @@
 # 可持久化Trie树
-![!\[!\\[!\\\[Alt text\\\](image.png)\\](../../../_resources/image.png)\](../../_resources/image.png)](../../../_resources/image.png)
+![!\[!\\[!\\\[Alt text\\\](https://staic.oss-cn-beijing.aliyuncs.com/typora/image.png)\\](../../../_resources/image.png)\](../../_resources/image.png)](../../../_resources/image.png)
 ## [最大异或和](https://www.acwing.com/problem/content/258/)
 ### 给定一个非负整数序列 a，初始长度为 N有 M个操作，有以下两种操作类型：
 
 `A x：`添加操作，表示在序列末尾添加一个数 x，序列的长度 N增大 1。
 
 `Q l r x：`询问操作，你需要找到一个位置p，满足$（l <= p <= r )$，使得：$a[p] xor a[p+1] xor … xor a[N] xor x$最大，输出这个最大值.
-![Alt text](../../../_resources/%E6%9C%80%E5%A4%A7%E5%BC%82%E6%88%96%E5%92%8C.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%9C%80%E5%A4%A7%E5%BC%82%E6%88%96%E5%92%8C.png)
 
-![Alt text](../../../_resources/%E6%9C%80%E5%A4%A7%E5%BC%82%E6%88%96%E5%92%8C-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%90%86%E8%A7%A3.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%9C%80%E5%A4%A7%E5%BC%82%E6%88%96%E5%92%8C-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%90%86%E8%A7%A3.png)
 
 ```
 #include <iostream>
@@ -118,7 +118,7 @@ int main() {
 我们分析一下，发现每次修改操作修改的点的个数是一样的。
 $（例如下图，修改了 [1,8] 中对应权值为 1 的结点，红色的点即为更改的点）$
 ![
-!\[!\\[Alt text\\](../../../_resources/persistent-seg.png)\](../../_resources/persistent-seg.png)](../../../_resources/persistent-seg.png)
+!\[!\\[Alt text\\](https://staic.oss-cn-beijing.aliyuncs.com/typora/persistent-seg.png)\](../../_resources/persistent-seg.png)](../../../_resources/persistent-seg.png)
 
 
 $只更改了 O(\log{n}) 个结点，形成一条链，也就是说每次更改的结点数 = 树的高度。

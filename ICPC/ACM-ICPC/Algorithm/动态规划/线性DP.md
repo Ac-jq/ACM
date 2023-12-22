@@ -189,7 +189,7 @@ int main() {
 
 数列 A和 B的长度均不超过 3000
 
-![Alt text](../../../_resources/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.png)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.png)
 
 ```
 #include <bits/stdc++.h>
@@ -247,7 +247,7 @@ int main() {
  个字符串中有多少个字符串可以在上限操作次数内经过操作变成询问给出的字符串。
 
 #### - $每个对字符串进行的单个字符的插入、删除或替换算作一次操作。$
-![Alt text](../../../_resources/%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.jpg)
+![Alt text](https://staic.oss-cn-beijing.aliyuncs.com/typora/%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.jpg)
 
 ```
 #include<iostream>
